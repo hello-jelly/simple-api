@@ -21,5 +21,13 @@
   },
   "jest": {
     "testEnvironment": "node"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hello-jelly/simple-api.git"
+  },
+  "bugs": {
+    "url": "https://github.com/hello-jelly/simple-api/issues"
+  },
+  "homepage": "https://github.com/hello-jelly/simple-api#readme"
 }

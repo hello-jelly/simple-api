@@ -5,86 +5,17 @@
       "name": "candy bars",
       "display_name": "Candy Bars of the World",
       "description": "A collection of candy bars from around the world"
-    },
-    {
-      "_id": 2,
-      "name": "world gum",
-      "display_name": "Gum from Around the World",
-      "description": "A collection of chewing gums from around the world"
     }
   ],
   "products": [
     {
-      "_id": 1,
-      "category": "chocolate",
-      "origin": "USA",
-      "brand": "Hershey",
-      "name": "whachamacallit",
-      "display_name": "Whachamacallit",
-      "description": "Crisped rice, peanut butter, and chocolate candy bar"
-    },
-    {
       "_id": 2,
-      "category": "chocolate",
+      "category": 1,
       "origin": "Australia",
       "brand": "Robern Menz",
       "name": "violet-crumble",
       "display_name": "Violet Crumble",
       "description": "Crumbly honeycomb toffee centre coated in compound chocolate"
-    },
-    {
-      "_id": 3,
-      "category": "chocolate",
-      "origin": "England",
-      "brand": "Roundtree",
-      "name": "lion-bar",
-      "display_name": "Lion Bar",
-      "description": "A filled wafer, caramel and crisp cereal, covered in milk chocolate"
-    },
-    {
-    "_id": 4,
-      "category": "chocolate",
-      "origin": "South Korea",
-      "brand": "Lotte",
-      "name": "crunky",
-      "display_name": "Crunky",
-      "description": "Rice crisps covered with chocolate"
-    },
-    {
-      "_id": 5,
-      "category": "gum",
-      "origin": "Mexico",
-      "brand": "Canderaria",
-      "name": "bubbaloo",
-      "display_name": "Bubbaloo",
-      "description": "Small pieces of bubble gum with a liquid center"
-    },
-    {
-      "_id": 6,
-      "category": "gum",
-      "origin": "USA",
-      "brand": "Tootsie Roll Industries",
-      "name": "dubble-bubble",
-      "display_name": "Dubble Bubble",
-      "description": "America's original Bubble Gum"
-    },
-    {
-      "_id": 7,
-      "category": "gum",
-      "origin": "South Korea",
-      "brand": "Lotte",
-      "name": "black-black",
-      "display_name": "Black Black",
-      "description": "Strong minty gum that will wake you up"
-    },
-    {
-      "_id": 8,
-      "category": "gum",
-      "origin": "Japan",
-      "brand": "Marukawa",
-      "name": "marukawa-bubble-gum",
-      "display_name": "Marukawa Bubble Gum",
-      "description": "Classic Japanese gum with great fruit flavor!"
     }
   ]
 }
