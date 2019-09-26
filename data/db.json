@@ -1,0 +1,21 @@
+{
+  "categories": [
+    {
+      "_id": 1,
+      "name": "candy bars",
+      "display_name": "Candy Bars of the World",
+      "description": "A collection of candy bars from around the world"
+    }
+  ],
+  "products": [
+    {
+      "_id": 2,
+      "category": 1,
+      "origin": "Australia",
+      "brand": "Robern Menz",
+      "name": "violet-crumble",
+      "display_name": "Violet Crumble",
+      "description": "Crumbly honeycomb toffee centre coated in compound chocolate"
+    }
+  ]
+}

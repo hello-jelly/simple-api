@@ -1,0 +1,34 @@
+{
+  "name": "copy-file",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "json-server ./data/db.json --routes routes.json --id _id",
+    "test": "jest --verbose --passWithNoTests",
+    "test-watch": "jest --verbose --watchAll",
+    "lint": "eslint '**/*.js'"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^6.4.0",
+    "jest": "^24.9.0",
+    "nodemon": "^1.19.2"
+  },
+  "dependencies": {
+    "json-server": "^0.15.1"
+  },
+  "jest": {
+    "testEnvironment": "node"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hello-jelly/simple-api.git"
+  },
+  "bugs": {
+    "url": "https://github.com/hello-jelly/simple-api/issues"
+  },
+  "homepage": "https://github.com/hello-jelly/simple-api#readme"
+}
