@@ -1,4 +1,4 @@
-const test = require('./add');
+const test = require('../add');
 
 describe('function subtracts two numbers', () => {
   it('subtracts', () => {
